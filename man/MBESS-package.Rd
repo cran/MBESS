@@ -25,15 +25,18 @@
 \tabular{ll}{
 Package: \tab MBESS\cr
 Type: \tab Package\cr
-Version: \tab 4.4.3 \cr
-Date: \tab 2018-01-10\cr
+Version: \tab 4.8.0 \cr
+Date: \tab 2020-08-04\cr
 License: \tab GPL(>=2)\cr
 }
 Please read the manual and visit the corresponding web site 
 \url{http://nd.edu/~kkelley/site/MBESS.html} 
 for information on the capabilities of the \code{MBESS} package. Feel free 
 to contact me if there is a feature you would like to see added if it would 
-complement the goals of the MBESS package.
+complement the goals of the MBESS package. Beginning with version 
+4.8.0, the package also has a home on GitHub \url{https://github.com/yelleKneK/MBESS}. 
+Over the years, multiple people have contributed functions to the package. See individual 
+functions for details. 
 }
 \author{
 Ken Kelley <\email{KKelley@ND.Edu}; http://www.nd.edu/~kkelley> 

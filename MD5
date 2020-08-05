@@ -1,4 +1,4 @@
-12846b332f727fd9e39d8e447d2ce9eb *DESCRIPTION
+d683b7c0f7dcf48b2ad1357ab10fc1b6 *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -94,6 +94,7 @@ ae84e20a71c55dc77ae7fd21fc1939cf *R/verify.ss.aipe.R2.R
 7e4662202d0e0b2ed7f4909a4c38694d *R/vit.R
 fd76671db4f965ab643d93392f8856f9 *R/vit.fitted.R
 bba48cc0da7cc603c06dbedf1f20109e *R/widthsscrd.R
+c9e445e35e4cdd1a1bfac3ab21975928 *README.md
 922f5b840d4b58eaae26dab6e8ead504 *data/Cor.Mat.Lomax.rda
 b789aeea95dc7e97e281df2562b54242 *data/Cor.Mat.MM.rda
 bab6794516c3603fa8761b2fb06dba64 *data/Gardner.LD.rda
@@ -105,8 +106,8 @@ e9d80bf93ce35b78f24be92e283353d8 *man/Cor.Mat.MM.Rd
 6e5122f7dc2db26319c1c515dbbe0387 *man/Expected.R2.Rd
 fe80f7ee0842fbfcef689620d546a4bf *man/F.and.R2.Noncentral.Conversion.Rd
 5e86494b524f8ecc2b398bd44050c8f2 *man/Gardner.LD.Rd
-0bc26fbb99d8df0073eead6884aebb44 *man/HS.Rd
-6f1c0888efa37b3a24b2f46496d2e17c *man/MBESS-package.Rd
+1941e6595c97f69341df5cc59457b952 *man/HS.Rd
+1e68fe0732aec7ff2af04f21ebfd8d9f *man/MBESS-package.Rd
 586e4beb9b34f2cf7d25747b6d1229ec *man/Sigma.2.SigmaStar.Rd
 31531efe5f5e203c4f638e64f3058451 *man/Variance.R2.Rd
 495e84be1f028824d6ce16ae108e455e *man/aipe.smd.Rd

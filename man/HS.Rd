@@ -49,10 +49,10 @@ The \emph{complete} data set of scores of 301 participants in 26 tests in Holzin
 
 \details{
 Holzinger and Swineford (1939) data is widely cited, but generally only the Grant-White School data 
-is used. The present dataset contains the complete data of Holzinger and Swineford (1939).
+is used. The present dataset contains the complete data of Holzinger and Swineford (1939). 
  
-A total number of 301 pupils from Paster School and Grant-White School participated in Holzinger and 
-Swineford's (1939) study. This study consists of 26 tests, which are used to measure 
+A total number of 301 pupils, coming from Paster School and Grant-White School, who participated in Holzinger
+and Swineford's (1939) study. This study consists of 26 tests, which are used to measure 
 the participants' spatial, verbal, mental speed, memory, and mathematical ability. 
 
 The spatial tests consist of \code{t1_visual_perception}, \code{t2_cubes}, \code{t3_paper_form_board}, \code{t4_lozenges}. Additional spatial tests are \code{t25_paper_form_board_r} (revised test 3) and \code{t26_flags}. \code{t25_paper_form_board_r} can (potentially) be used as a substitute for \code{t3_paper_form_board}. \code{t26_flags} is thought to be a possible substitute for \code{t4_lozenges}.
