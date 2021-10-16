@@ -1,4 +1,4 @@
-d683b7c0f7dcf48b2ad1357ab10fc1b6 *DESCRIPTION
+06e291f175de13a7e0c293b5a1d336ad *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -18,7 +18,7 @@ e28cd9ee1140d2e5a84046ded0785df2 *R/ci.cv.R
 02b33e6fc80f74f34741be7965e06b02 *R/ci.pvaf.R
 186660f6001fdbe92938d2366cfa3669 *R/ci.rc.R
 f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
-07f360e2531da076cff3c69756d1a446 *R/ci.reliability.R
+7cab4d7aa723c59149ca1890f2e896ae *R/ci.reliability.R
 55195fc9e9691b02a819175fa3cfb242 *R/ci.rmsea.R
 18407a9f7903740276ba7fa15eb77d5d *R/ci.sc.R
 8970c97ba77095a8d0f2f393b849d10a *R/ci.sc.ancova.R
@@ -107,7 +107,7 @@ e9d80bf93ce35b78f24be92e283353d8 *man/Cor.Mat.MM.Rd
 fe80f7ee0842fbfcef689620d546a4bf *man/F.and.R2.Noncentral.Conversion.Rd
 5e86494b524f8ecc2b398bd44050c8f2 *man/Gardner.LD.Rd
 1941e6595c97f69341df5cc59457b952 *man/HS.Rd
-1e68fe0732aec7ff2af04f21ebfd8d9f *man/MBESS-package.Rd
+10896a7f6279904b00beb9d336205ab7 *man/MBESS-package.Rd
 586e4beb9b34f2cf7d25747b6d1229ec *man/Sigma.2.SigmaStar.Rd
 31531efe5f5e203c4f638e64f3058451 *man/Variance.R2.Rd
 495e84be1f028824d6ce16ae108e455e *man/aipe.smd.Rd
