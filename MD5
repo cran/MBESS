@@ -1,4 +1,4 @@
-06e291f175de13a7e0c293b5a1d336ad *DESCRIPTION
+2a99fefc1c1416930889fcab0f76a9fa *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -11,10 +11,11 @@ e079aa4adbb85ea748c15d4ec9241103 *R/Sigma.2.SigmaStar.R
 902f69c1e62d4cd1cf353e6e351bc09e *R/ancova.random.data.R
 9004038d4c4fa9ea03dcb6e402e085d9 *R/ci.R.R
 158db90181bf256cd367d049bb947256 *R/ci.R2.R
-b1f59787978568138d659ee740c2a682 *R/ci.c.R
+4b71f7dafb6b7b54629352eee6b416ce *R/ci.c.R
 4a382e394ba87b4e34d8da99f97c6a51 *R/ci.c.ancova.R
 8df5cab8e5d5a5b1a78cdbbd2f993493 *R/ci.cc.R
 e28cd9ee1140d2e5a84046ded0785df2 *R/ci.cv.R
+e9f914759a01d23f7228f3ee6e7a4f84 *R/ci.omega2.R
 02b33e6fc80f74f34741be7965e06b02 *R/ci.pvaf.R
 186660f6001fdbe92938d2366cfa3669 *R/ci.rc.R
 f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
@@ -25,7 +26,7 @@ f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
 3e2f016468fe10c02202b01d92dc1acf *R/ci.sm.R
 dfa7ebb676ca351b0884b3e61e56a1d9 *R/ci.smd.R
 eded78114f1418515a37470b497ae512 *R/ci.smd.c.R
-4a382adcbdcd485bd92ce37caccdce9e *R/ci.snr.R
+80f1f52d302c943e1530df4354589abb *R/ci.snr.R
 3fe8c30947ab0d15fea73450f37ace7b *R/ci.src.R
 cd2214a583ccc5a98dc6eed353bd65a3 *R/ci.srsnr.R
 6fffde01ec92be58bbdf5442eff4952b *R/conf.limits.nc.chisq.R
@@ -118,6 +119,7 @@ ece71c9757e9d2c8e4b98813db2ef519 *man/ci.R2.Rd
 550a0339f9b8de4744272a474ae20cc2 *man/ci.c.ancova.Rd
 f2fc9fd90eb1fad7f0bf93402debb254 *man/ci.cc.Rd
 9c16097badf9d8177d38f1bf12072d3f *man/ci.cv.Rd
+30ecb4ac5c2a1fc26769f5756c6a3bfc *man/ci.omega2.Rd
 3c612b73a6e515020f7ef13a77244bd9 *man/ci.pvaf.Rd
 1e540c36fc7560d5087d350184477eb7 *man/ci.rc.Rd
 8b639c104e67ad974f0e25454a7e50a3 *man/ci.reg.coef.Rd
@@ -128,7 +130,7 @@ ffc6a217e2327a57809f83adb60e25e3 *man/ci.sc.ancova.Rd
 d38240777b792701fbec47b8dcd2f1b4 *man/ci.sm.Rd
 8fa4c72b12d2e7d659460b2241f28be1 *man/ci.smd.Rd
 daf500043ef4409d56409e6ea4ef63fb *man/ci.smd.c.Rd
-f661bd9b202c74a85190cc93f433e6e7 *man/ci.snr.Rd
+1f1777a580e1b994ffbc5e9cb1b4b111 *man/ci.snr.Rd
 22f90125ba7edfb9f50a96f15d2e28db *man/ci.src.Rd
 23f465f749a191ce9ca105f954b4bcbe *man/ci.srsnr.Rd
 4926418a8814ff35d5770d4d6fb4c409 *man/conf.limits.nc.chisq.Rd
