@@ -1,4 +1,4 @@
-2a99fefc1c1416930889fcab0f76a9fa *DESCRIPTION
+74810693d9304e0691d68d653b5e1577 *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -15,7 +15,7 @@ e079aa4adbb85ea748c15d4ec9241103 *R/Sigma.2.SigmaStar.R
 4a382e394ba87b4e34d8da99f97c6a51 *R/ci.c.ancova.R
 8df5cab8e5d5a5b1a78cdbbd2f993493 *R/ci.cc.R
 e28cd9ee1140d2e5a84046ded0785df2 *R/ci.cv.R
-e9f914759a01d23f7228f3ee6e7a4f84 *R/ci.omega2.R
+6e78c20eca8d0544168199a1bc09a1e1 *R/ci.omega2.R
 02b33e6fc80f74f34741be7965e06b02 *R/ci.pvaf.R
 186660f6001fdbe92938d2366cfa3669 *R/ci.rc.R
 f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
@@ -26,7 +26,7 @@ f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
 3e2f016468fe10c02202b01d92dc1acf *R/ci.sm.R
 dfa7ebb676ca351b0884b3e61e56a1d9 *R/ci.smd.R
 eded78114f1418515a37470b497ae512 *R/ci.smd.c.R
-80f1f52d302c943e1530df4354589abb *R/ci.snr.R
+595f4b4130de19fee6fac8438d7d14a9 *R/ci.snr.R
 3fe8c30947ab0d15fea73450f37ace7b *R/ci.src.R
 cd2214a583ccc5a98dc6eed353bd65a3 *R/ci.srsnr.R
 6fffde01ec92be58bbdf5442eff4952b *R/conf.limits.nc.chisq.R
@@ -63,9 +63,9 @@ e0a4f490e57613d5bc0b778309f99dfb *R/ss.aipe.rc.R
 b03d9a5595d2aa050447606e66d2ab59 *R/ss.aipe.rc.sensitivity.R
 922afbd61f52209d94a54a7b46931aa3 *R/ss.aipe.reg.coef.R
 42d86b1432774bc292aa770833f47c3a *R/ss.aipe.reg.coef.sensitivity.R
-035b80706a0252186ce72854015d1576 *R/ss.aipe.reliability.R
+cd22fc9fb2354945e1b71d79c17ba98d *R/ss.aipe.reliability.R
 98c378f33006a603aab31100e014cf31 *R/ss.aipe.rmsea.R
-20de2f6f1a268baf5bf6321be2aa53f1 *R/ss.aipe.rmsea.sensitivity.R
+1a237623a9ad8e320b84ffc5a8c2fccc *R/ss.aipe.rmsea.sensitivity.R
 552c61ed5cf94ce9c660ee8128273164 *R/ss.aipe.sc.R
 bbcd68ae1e9f35570d34a21fe911ffd5 *R/ss.aipe.sc.ancova.R
 7b3871a445783bd8cb5188035c4ce117 *R/ss.aipe.sc.ancova.sensitivity.R
@@ -93,7 +93,7 @@ b084431c47d09eb54ad38b8396bcbf86 *R/theta.2.Sigma.theta.R
 272f4c7dcdbd73da70d6c3e8ffadceb8 *R/var.ete.R
 ae84e20a71c55dc77ae7fd21fc1939cf *R/verify.ss.aipe.R2.R
 7e4662202d0e0b2ed7f4909a4c38694d *R/vit.R
-fd76671db4f965ab643d93392f8856f9 *R/vit.fitted.R
+61f2342938639235e4a7b80104f9058a *R/vit.fitted.R
 bba48cc0da7cc603c06dbedf1f20109e *R/widthsscrd.R
 c9e445e35e4cdd1a1bfac3ab21975928 *README.md
 922f5b840d4b58eaae26dab6e8ead504 *data/Cor.Mat.Lomax.rda
@@ -119,7 +119,7 @@ ece71c9757e9d2c8e4b98813db2ef519 *man/ci.R2.Rd
 550a0339f9b8de4744272a474ae20cc2 *man/ci.c.ancova.Rd
 f2fc9fd90eb1fad7f0bf93402debb254 *man/ci.cc.Rd
 9c16097badf9d8177d38f1bf12072d3f *man/ci.cv.Rd
-30ecb4ac5c2a1fc26769f5756c6a3bfc *man/ci.omega2.Rd
+e583050e4d0b72a6b97156ad76290647 *man/ci.omega2.Rd
 3c612b73a6e515020f7ef13a77244bd9 *man/ci.pvaf.Rd
 1e540c36fc7560d5087d350184477eb7 *man/ci.rc.Rd
 8b639c104e67ad974f0e25454a7e50a3 *man/ci.reg.coef.Rd
