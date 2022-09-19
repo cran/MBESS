@@ -1,4 +1,4 @@
-74810693d9304e0691d68d653b5e1577 *DESCRIPTION
+b918d077d395693b59f723627d8e36ce *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -6,7 +6,7 @@ d82f0b2e8792ffcd672fc1606512cced *R/F2Rsquare.R
 95ed0095f8b063dfa847d36f21485775 *R/Lambda2Rsquare.R
 b3dae0df8f59f13c628a04c6eb7a32c6 *R/Rsquare2F.R
 eeb5b1abc5601c1fb35f5a266e82e74e *R/Rsquare2Lambda.R
-e079aa4adbb85ea748c15d4ec9241103 *R/Sigma.2.SigmaStar.R
+3fd162628372f1ef252763fddef00579 *R/Sigma.2.SigmaStar.R
 84afb33d0f24f60819f3f8d6d15f5a84 *R/Variance.R2.R
 902f69c1e62d4cd1cf353e6e351bc09e *R/ancova.random.data.R
 9004038d4c4fa9ea03dcb6e402e085d9 *R/ci.R.R
@@ -23,7 +23,7 @@ f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
 55195fc9e9691b02a819175fa3cfb242 *R/ci.rmsea.R
 18407a9f7903740276ba7fa15eb77d5d *R/ci.sc.R
 8970c97ba77095a8d0f2f393b849d10a *R/ci.sc.ancova.R
-3e2f016468fe10c02202b01d92dc1acf *R/ci.sm.R
+cd68e38e14440fd4f3f6c41ed503e653 *R/ci.sm.R
 dfa7ebb676ca351b0884b3e61e56a1d9 *R/ci.smd.R
 eded78114f1418515a37470b497ae512 *R/ci.smd.c.R
 595f4b4130de19fee6fac8438d7d14a9 *R/ci.snr.R
