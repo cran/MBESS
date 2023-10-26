@@ -16,7 +16,7 @@ gamma = 0.49)
   \item{A}{is the price one is willing to pay in order to have a maximum allowable difference of \eqn{epsilon^2} between the estimate of the standardized mean difference and its corresponding parameter.
 }
   \item{structural.cost}{
-%%     ~~Describe \code{structural.cost} here~~
+Other costs not associated the cost of sampling itself. That is, beyond sampling costs, the fnancial resources that are required to design, conduct, analyze the data of a study. 
 }
   \item{epsilon}{
 The maximum desired difference between the estimated standardized mean difference and the population value)

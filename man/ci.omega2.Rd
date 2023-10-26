@@ -4,7 +4,7 @@
 \title{
 Confidence Interval for omega-squared (\eqn{\omega^2}) for between-subject fixed-effects ANOVA and ANCOVA designs (and partial omega-squared \eqn{\omega^2_p} for between-subject multifactor ANOVA and ANCOVA designs)}
 \description{
-Function to obtain the exact confidence interval using the non-central $F$ distribution for omega-squared or partial omega-squared in between-subject fixed-effects ANOVA and ANCOVA designs.}
+Function to obtain the exact confidence interval using the non-central \eqn{F}-distribution for omega-squared or partial omega-squared in between-subject fixed-effects ANOVA and ANCOVA designs.}
 \usage{
 ci.omega2(F.value = NULL, df.1 = NULL, df.2 = NULL, N = NULL, conf.level = 0.95, 
 alpha.lower = NULL, alpha.upper = NULL, ...)
@@ -12,7 +12,7 @@ alpha.lower = NULL, alpha.upper = NULL, ...)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{F.value}{
-The value of the $F$-statistic for the analysis of (co)variace model (ANOVA) or, in the case of a multifactor ANOVA, the $F$-statistic for the particular factor.)
+The value of the \eqn{F}-statistic for the analysis of (co)variace model (ANOVA) or, in the case of a multifactor ANOVA, the \eqn{F}-statistic for the particular factor.)
 }
   \item{df.1}{
 numerator degrees of freedom
@@ -34,7 +34,7 @@ confidence interval coverage (\code{conf.level}), or lower and upper confidence
 limits (\code{alpha.lower} and \code{alpha.upper}). The value returned is the confidence 
 interval limits for the population \eqn{\omega^2} (or partial \eqn{\omega^2}). 
 
-This function uses the confidence interval transformation principle (Steiger, 2004) to transform the confidence limits for the noncentality parameter to the confidence limits for the population's (partial) omega-squared (\eqn{\omega^2}). The confidence interval for the noncentral \emph{F}-parameter can be obtained
+This function uses the confidence interval transformation principle (Steiger, 2004) to transform the confidence limits for the noncentality parameter to the confidence limits for the population's (partial) omega-squared (\eqn{\omega^2}). The confidence interval for the noncentral \eqn{F}-parameter can be obtained
 from the \code{conf.limits.ncf} function in MBESS, which is used internally within this function. 
 }
 \value{

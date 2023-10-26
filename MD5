@@ -1,4 +1,4 @@
-b918d077d395693b59f723627d8e36ce *DESCRIPTION
+4b8858a765ce08bdd2c295d48a7b5489 *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -19,7 +19,7 @@ e28cd9ee1140d2e5a84046ded0785df2 *R/ci.cv.R
 02b33e6fc80f74f34741be7965e06b02 *R/ci.pvaf.R
 186660f6001fdbe92938d2366cfa3669 *R/ci.rc.R
 f64365ac97e6c1f03e922c7fe0cffc51 *R/ci.reg.coef.R
-7cab4d7aa723c59149ca1890f2e896ae *R/ci.reliability.R
+0b16667119f671ecfd39840f2525de7c *R/ci.reliability.R
 55195fc9e9691b02a819175fa3cfb242 *R/ci.rmsea.R
 18407a9f7903740276ba7fa15eb77d5d *R/ci.sc.R
 8970c97ba77095a8d0f2f393b849d10a *R/ci.sc.ancova.R
@@ -117,13 +117,13 @@ fe80f7ee0842fbfcef689620d546a4bf *man/F.and.R2.Noncentral.Conversion.Rd
 ece71c9757e9d2c8e4b98813db2ef519 *man/ci.R2.Rd
 811a75d788fc7cd744c1b4aa2de893cb *man/ci.c.Rd
 550a0339f9b8de4744272a474ae20cc2 *man/ci.c.ancova.Rd
-f2fc9fd90eb1fad7f0bf93402debb254 *man/ci.cc.Rd
+fc7cfaef49f5db02507df047146d1b24 *man/ci.cc.Rd
 9c16097badf9d8177d38f1bf12072d3f *man/ci.cv.Rd
-e583050e4d0b72a6b97156ad76290647 *man/ci.omega2.Rd
+5bb1afc5df88253d02eea1efe8971ad1 *man/ci.omega2.Rd
 3c612b73a6e515020f7ef13a77244bd9 *man/ci.pvaf.Rd
 1e540c36fc7560d5087d350184477eb7 *man/ci.rc.Rd
 8b639c104e67ad974f0e25454a7e50a3 *man/ci.reg.coef.Rd
-61c9303f7796bd01dcba79cab219ff8c *man/ci.reliability.Rd
+c5e0cbbf8b5c631ed8c84105e1ec1d3e *man/ci.reliability.Rd
 7edd994c8a94157c3a674ee832be3d95 *man/ci.rmsea.Rd
 bc66bfd56faa1ee9cd1368cd3095753e *man/ci.sc.Rd
 ffc6a217e2327a57809f83adb60e25e3 *man/ci.sc.ancova.Rd
@@ -145,9 +145,9 @@ e757f9eea99e11516356edb0c5b79812 *man/intr.plot.2d.Rd
 f43568c13b1b2af0e0c09d964e1972ab *man/mediation.effect.bar.plot.Rd
 44511c2579b3dde9910f7d75f37dc62a *man/mediation.effect.plot.Rd
 59ed62be94f61cec191b3060a0d7ff87 *man/mr.cv.Rd
-6c305949d9ec77b4c4cca4f585e938f1 *man/mr.smd.Rd
-33b0b57392b6552d9661e3a66914e3b3 *man/power.density.equivalence.md.Rd
-ab6c7e36ce6ac49031672fdc2e876d70 *man/power.equivalence.md.Rd
+46bf61d88a3a9e9bbfb02f0061a71366 *man/mr.smd.Rd
+cc752f485cae73d8bb8bf3fafd82ed71 *man/power.density.equivalence.md.Rd
+a7bca421d4cc1f15430897dfbc773da2 *man/power.equivalence.md.Rd
 91179f4b3fdce6d33f96208a05e88236 *man/power.equivalence.md.plot.Rd
 9bab5d879e7e848f0fd2493567c474cd *man/prof.salary.Rd
 e48b8ea8c6c026e21ae0c5e35c08ec3a *man/s.u.Rd
@@ -190,8 +190,8 @@ cbc3d94639f37d081531bbeb1cce0ba2 *man/ssAIPECRD.Rd
 ce7666db46c2bd1f7afe56c0289f36d8 *man/ssAIPECRDES.Rd
 025cbcc209aafd5152d06b9ee933d88b *man/t.and.smd.conversion.Rd
 7e4da795ee8cbbc8980ffc9c8c1df15c *man/theta.2.Sigma.theta.Rd
-cc50e803f6105c45d590a6dc66b86e45 *man/transform_Z.r.Rd
-bf32cbcd7c381ec7327ce9faad629bff *man/transform_r.Z.Rd
+a25d1f986fc6f2f52f0e1675f018b6ce *man/transform_Z.r.Rd
+ccf6406ada4d1e432617a19720e2e7c8 *man/transform_r.Z.Rd
 a9553950b0deb319256b909dc04bb148 *man/upsilon.Rd
 a07394081e13e020e7de799a3a7a23cf *man/var.ete.Rd
 8523c96b624bad989bcd182eeb734b54 *man/verify.ss.aipe.R2.Rd

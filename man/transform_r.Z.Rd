@@ -1,9 +1,9 @@
 \name{transform_r.Z}
 \alias{transform_r.Z}
-\title{Transform a correlation coefficient (r) into the scale of Fischer's \emph{Z}
+\title{Transform a correlation coefficient (r) into the scale of Fisher's \eqn{Z^\prime}
 }
 \description{
-This function transform a correlation coefficient into the scale of Fischer's \emph{Z}.}
+This function transform a correlation coefficient into the scale of Fisher's \eqn{Z^\prime}.}
 \usage{
 transform_r.Z(r)
 }
@@ -14,7 +14,7 @@ transform_r.Z(r)
 This function is typically used in the context of forming a confidence interval for a population correlation coefficient. Note that, in that situation, the two variables are assumed to follow a bivariate normal distribution (e.g., Hays, 1994). 
 }
 \value{
-returns a value on the scale of Fisher's \emph{Z}, also called Fisher's emph{Z}\', from a given correlation value. 
+returns a value on the scale of Fisher's \eqn{Z^\prime}, also called Fisher's \eqn{Z}, from a given correlation value. 
 }
 \references{
 Kelley, K. (2007). Confidence intervals for standardized effect sizes: Theory, application, 

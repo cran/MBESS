@@ -15,7 +15,7 @@ This function is used to form a confidence interval for the population correlati
 \item{alpha.upper}{the Type I error rate for the upper confidence interval limit}
 }
 \details{
-Note that this appraoch to confidence intervals does will not generally lead to a symmetric confidence interval. The function first transforms $r$ into emph{Z}\' , forms a confidence interval for the population value (i.e., $zeta$), and then transforms the confidence limits for $zeta$ into the scale of the correlation coefficient. 
+Note that this appraoch to confidence intervals does will not generally lead to a symmetric confidence interval. The function first transforms \eqn{r} into \eqn{Z^\prime} , forms a confidence interval for the population value (i.e., \eqn{\zeta}), and then transforms the confidence limits for \eqn{\zeta} into the scale of the correlation coefficient. 
 }
 \value{
 \item{Lower.Limit }{lower limit of the confidence interval}

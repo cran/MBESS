@@ -4,13 +4,13 @@
 Transform Fischer's \emph{Z} into the scale of a correlation coefficient 
 }
 \description{
-A function to transform Fischer's \emph{Z} into the scale of a correlation coefficient. 
+A function to transform Fischer's \eqn{Z^\prime} into the scale of a correlation coefficient. 
 }
 \usage{
 transform_Z.r(Z)
 }
 \arguments{
-  \item{Z}{Fisher's Z or Fisher's \emph{Z}\' value.}
+  \item{Z}{Value of Fisher's \eqn{Z^\prime} (also called Fisher's \eqn{Z}).}
 }
 \details{
 This function is typically used in the context of forming a confidence interval for a population correlation coefficient. Note that, in that situation, the two variables are assumed to follow a bivariate normal distribution (e.g., Hays, 1994).
