@@ -13,7 +13,8 @@ power.equivalence.md(alpha, logscale, ltheta1, ltheta2, ldiff, sigma, n, nu)
 
 \arguments{
   \item{alpha}{ \eqn{\alpha} level (Type I error rate) for the two \eqn{t}-tests (usually \eqn{\alpha=0.05}). 
-  Confidence interval for full test is at level 1-2*\code{alpha} }
+  Confidence interval for full test is at \eqn{1-2*\alpha}
+  }
   \item{logscale}{whether to use logarithmic scale (\code{TRUE}) or not (\code{FALSE}) }
   \item{ltheta1}{ lower limit of equivalence interval}
   \item{ltheta2}{ upper limit of equivalence interval }

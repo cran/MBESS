@@ -1,9 +1,9 @@
 \name{upsilon}
 \alias{upsilon}
 \title{
-This function implements the upsilon effect size statistic as described in Lachowicz, Preacher, & Kelley (in press) for mediation.}
+This function implements the upsilon effect size statistic as described in Lachowicz, Preacher, & Kelley (2018) for mediation.}
 \description{
-This function implements the upsilon effect size statistic as described in Lachowicz, Preacher, & Kelley (in press) for mediation.}
+This function implements the upsilon effect size statistic as described in Lachowicz, Preacher, & Kelley (2018) for mediation.}
 \usage{
 upsilon(x, mediator, dv, conf.level = 0.95, bootstrap = TRUE, 
 bootstrap.package = "lavaan", bootstrap.type="ordinary", B = 1000,
@@ -28,7 +28,7 @@ boot.data.out=FALSE, ...)
 Returns the value of the effect size upsilon for a simple mediation model. 
 }
 \references{
-Lachowicz, M. J., Preacher, K. J., & Kelley, K. (in press). A novel measure of effect size for mediation analysis. \emph{Psychological Methods}, \emph{X}, X--X.
+Lachowicz, M. J., Preacher, K. J., & Kelley, K. (2018). A novel measure of effect size for mediation analysis. \emph{Psychological Methods}, \emph{23}, 244–261.
 
 Preacher, K. J., & Kelley, K. (2011). Effect size measures for mediation models: quantitative strategies for communicating indirect effects. \emph{Psychological Methods}, \emph{16}, 93--115. 
 
@@ -41,10 +41,12 @@ Lachowicz
 Mark J. Lachowicz (Vanderbilt University; \email{Mark.J.Lachowicz@Vanderbilt.edu})
 }
 \note{
-Note that this function overcomes some limitations of other effects for mediation models, such as those discussed in Preacher and Kelley (2012) and Wen and Fan (2015) and that was developed and delineated in Lachowicz, Preacher, and Kelley, K (in press). This function can only be used for simple mediation models at this time. Note that \code{upsilon()} was included in the \code{mediation()} function but it has become it's own function to provide more flexibility. 
+Note that this function overcomes some limitations of other effects for mediation models, such as those discussed in Preacher and Kelley (2012) and Wen and Fan (2015) and that was developed and delineated in Lachowicz, Preacher, and Kelley, K (2018). This function can only be used for simple mediation models at this time. Note that \code{upsilon()} was included in the \code{mediation()} function but it has become it's own function to provide more flexibility. 
 }
 
 \seealso{
-\link{mediation},\link{lavaan},\link{boot}
+\link{mediation}
+\link[lavaan]{lavaan}
+\link[boot]{boot}
 }
 \keyword{design}

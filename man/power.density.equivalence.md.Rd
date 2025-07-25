@@ -12,7 +12,8 @@ theta2 = theta2, diff = diff, sigma = sigma, n = n, nu = nu)
 
 \arguments{
   \item{power_sigma}{x-value for integration}
-  \item{alpha}{ \eqn{\alpha} level (Type I error rate) for the 2 \eqn{t}-tests (usually \eqn{\alpha=0.05}). Confidence interval for full test is at level (\eqn{1-2*\alpha})}
+  \item{alpha}{ \eqn{\alpha} level (Type I error rate) for the 2 \eqn{t}-tests (usually \eqn{\alpha=0.05}). Confidence interval for full test is at level \eqn{1-2*\alpha}
+  }
   \item{theta1}{ lower limit of equivalence interval on appropriate scale (regular or log) }
   \item{theta2}{ upper limit of equivalence interval on appropriate scale }
   \item{diff}{ true difference (ratio on log scale) in treatment means on appropriate scale }

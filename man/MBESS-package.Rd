@@ -25,13 +25,11 @@
 \tabular{ll}{
 Package: \tab MBESS\cr
 Type: \tab Package\cr
-Version: \tab 4.8.1 \cr
-Date: \tab 2021-10-16\cr
+Version: \tab 4.9.41 \cr
+Date: \tab 2025-07-07\cr
 License: \tab GPL(>=2)\cr
 }
-Please read the manual and visit the corresponding web site 
-\url{https://www3.nd.edu/~kkelley/site/MBESS.html} 
-for information on the capabilities of the \code{MBESS} package. Feel free 
+Please read the help files for information on the capabilities of the \code{MBESS} package. Feel free 
 to contact me if there is a feature you would like to see added if it would 
 complement the goals of the MBESS package. Beginning with version 
 4.8.0, the package also has a home on GitHub \url{https://github.com/yelleKneK/MBESS}. 
