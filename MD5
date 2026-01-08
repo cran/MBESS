@@ -1,4 +1,4 @@
-6daa365740cb08e035f64f78f5025a77 *DESCRIPTION
+764d7e857497dc58f2837a194c02b40e *DESCRIPTION
 ffb263a080a6eacf093da0b03ee64136 *NAMESPACE
 55a9ee6b1494cb67d95eee01f29860aa *R/CFA.1.R
 6911ad5f6eb9fd67941e3f6c0ee32f6c *R/Expected.R2.R
@@ -89,7 +89,7 @@ bf6cbc3a20393aa97144dc593a7f7412 *R/ss.power.sem.R
 b084431c47d09eb54ad38b8396bcbf86 *R/theta.2.Sigma.theta.R
 9de3ec532bcff2c4762abd89f9220463 *R/transform_Z.r.R
 9591561dbd47377320868c164b1a6ca7 *R/transform_r.Z.R
-39fa87f7c8f88d3b4964a0fe6882084a *R/upsilon.R
+d595c02a37396f285b67bc8fe8434630 *R/upsilon.R
 272f4c7dcdbd73da70d6c3e8ffadceb8 *R/var.ete.R
 ae84e20a71c55dc77ae7fd21fc1939cf *R/verify.ss.aipe.R2.R
 7e4662202d0e0b2ed7f4909a4c38694d *R/vit.R
